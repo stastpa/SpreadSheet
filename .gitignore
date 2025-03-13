@@ -22,3 +22,5 @@ out/
 *.bin
 *.app
 
+
+!libexpression_parser.a
